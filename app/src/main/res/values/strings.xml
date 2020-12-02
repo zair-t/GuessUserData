@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="right">Верно</string>
+    <string name="no">Вы ошиблись в логине или пароле</string>
+</resources>
